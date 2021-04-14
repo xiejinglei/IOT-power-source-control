@@ -1,6 +1,6 @@
 # power-source-tests
 
-This project is a test for CI with jenkins. It includes a power supply library and 2 simple tests on these power supplies. Allure reports are generated according to `pytest` results.
+This project is an experient for CI with jenkins. It includes a power supply library and 2 simple tests on these power supplies. Allure reports are generated according to `pytest` results.
 
 url: http://localhost:8080/
 
